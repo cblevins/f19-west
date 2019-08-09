@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+title:               History of the Western U.S.
+tagline:             'Northeastern University, Fall 2019'
+description:         'Course website for HIST 2341: History of the Western U.S.'
+url:                 'http://cblevins.github.io'
+baseurl:             '/f19-west'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Cameron Blevins
+  url:               https://cameronblevins.org
+  email:             c.blevins@northeastern.edu
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
