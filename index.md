@@ -9,7 +9,7 @@ permalink: /
 HIST 2341: History of the Western United States<br>
 Professor Cameron Blevins (he/him/his)<br>
 Northeastern University, Fall 2019<br>
-Snell Library 035, Mon/Wed 2:50-4:30pm
+Snell Library 035, Mon./Wed. 2:50-4:30pm
 </p>
 </div>
 

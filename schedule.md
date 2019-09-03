@@ -3,7 +3,7 @@ layout: page
 title: Schedule
 ---	
 
-**Week 1**
+<br>**Week 1**
 
 W. 9/4: El Paso
 
@@ -36,13 +36,14 @@ W. 9/25: Boston
 
 M. 9/30: Fort Vancouver
 - Come to class with a laptop and one item you plan to include in your timeline
-- Watch the trailer for [The Revenant (2015)](https://www.youtube.com/watch?v=LoebZZ8K5N0) and then read Stacy Nation-Knapper, ["Film Friday: The Revenant is Beautiful, Disappointing Art"](http://activehistory.ca/2016/01/the-revenant-is-beautiful-disappointing-art/) *Active History*, January 29, 2016. 
+- Watch the trailer for [The Revenant (2015)](https://www.youtube.com/watch?v=LoebZZ8K5N0)
+- Stacy Nation-Knapper, ["Film Friday: The Revenant is Beautiful, Disappointing Art"](http://activehistory.ca/2016/01/the-revenant-is-beautiful-disappointing-art/) *Active History*, January 29, 2016. 
 
 
 W. 10/2: Visit to the Leventhal Map Center
 - Meet in the lobby of the Boston Public Library at [700 Boylston St.](https://goo.gl/maps/TNuQ5jSMtZG5soG36)
 
-**Timeline due Sunday, October 6th by 11:59PM**
+***Timeline due Sunday, October 6th by 11:59PM***
 
 **Week 6**
 
@@ -81,7 +82,7 @@ Mon., Oct. 28: Ludlow
 W. 10/30: Hetch Hetchy Valley
 - Prep for mock Congressional hearing on proposal to dam Hetch Hetchy Valley (primary source packets distributed by professor).
 
-*[Pop Culture Review]({{site.baseurl}}/pop-culture-review) due Sunday, Friday, November 1st*
+***[Pop Culture Review]({{site.baseurl}}/pop-culture-review) due Sunday, Friday, November 1st***
 
 **Week 10**
 
@@ -110,7 +111,7 @@ W. 11/20: Malheur Ranch
 - Philip Bump, ["The Oregon occupiers’ land dispute, explained in 9 maps"](https://www.washingtonpost.com/news/the-fix/wp/2016/01/04/the-oregon-occupiers-complaint-explained-in-9-maps/), *Washington Post*, January 4, 2016.
 - Listen to your assigned episode of [*Bundyville* Season 1](https://longreads.com/bundyville/season-one/)
 
-*[Unessay]({{site.baseurl}}/unessay) due Sunday, November 24th by 11:59PM*
+***[Unessay]({{site.baseurl}}/unessay) due Sunday, November 24th by 11:59PM***
 
 **Week 13**
 
