@@ -22,7 +22,7 @@ M. 9/16: Taos
 - Andrés Reséndez, *The Other Slavery* (Introduction, Ch. 4, 6)
 
 W. 9/18: St. Louis 
-- Elliott West, "The West Before Lewis and Clark" in *The Essential West*.
+- Elliott West, ["The West Before Lewis and Clark"](https://www.dropbox.com/s/3jtvcjm8bhb8b43/West_TheWestBeforeLewisAndClark.pdf?dl=0) in *The Essential West*.
 
 **Week 4**
 
@@ -30,7 +30,7 @@ M. 9/23: Comancheria
 - Andrés Reséndez, *The Other Slavery* (Ch. 7, 9)
 
 W. 9/25: Boston
-- Elliott West, "Lewis and Park" in *The Essential West*.
+- Elliott West, ["Lewis and Park"](https://www.dropbox.com/s/nnue523r4ng318x/West_LewisAndPark.pdf?dl=0) in *The Essential West*.
 
 **Week 5**
 
