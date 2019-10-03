@@ -53,7 +53,7 @@ M. 10/7: Sutter's Mill
 
 W. 10/9: Sand Creek
 - Andrés Reséndez, *The Other Slavery* (Ch. 11)
-- Layli Long Soldier reading of [“38"](https://www.youtube.com/watch?v=MoRRBwQbd2E) (poem from her collection *WHEREAS*) [[text of poem](https://onbeing.org/blog/layli-long-soldier-38/)]
+- [Layli Long Soldier reading of “38"](https://www.youtube.com/watch?v=MoRRBwQbd2E) (poem from her collection *WHEREAS*) [[text of poem](https://onbeing.org/blog/layli-long-soldier-38/)]
 
 **Week 7**
 
