@@ -62,7 +62,6 @@ W. 10/9: Sand Creek
 W. 10/16: Promontory Summit
 - Frederick Jackson Turner, "The Significance of the Frontier in American History" [excerpts]
 - Andrés Reséndez, *The Other Slavery* (Ch. 12)
-- Elliott West, "Jesse James, Borderman" in *The Essential West*.
 
 **Week 8**
 
