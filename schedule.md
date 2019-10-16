@@ -67,7 +67,7 @@ W. 10/16: Promontory Summit
 
 M. 10/21: The Cherokee Outlet
 - Peggy O’Donnell, ["The Settler Fantasies Woven Into the Prairie Dresses”](https://pictorial.jezebel.com/the-settler-fantasies-woven-into-the-prairie-dresses-1831746430) *Jezebel*, January 30, 2019.
-- Watch your assigned episode of the television series *Little House on the Prairie*.
+- Watch your the Season 1 Pilot Episode of the television series *Little House on the Prairie*. Available on [Amazon](https://www.amazon.com/Little-House-Prairie-Season-1/dp/B00J8C0TB6) or [iTunes](https://itunes.apple.com/us/tv-season/little-house-on-the-prairie-pilot/id819780847).
 
 W. 10/23: Angel Island
 - Kathryn Schulz, ["Citizen Khan: The Old West's Muslim Tamale King"](https://www.newyorker.com/magazine/2016/06/06/zarif-khans-tamales-and-the-muslims-of-sheridan-wyoming), *The New Yorker*, June 2016.
@@ -76,12 +76,12 @@ W. 10/23: Angel Island
 **Week 9**
 
 Mon., Oct. 28: Ludlow
-- Watch Ken Burns, *The National Parks: America's Best Idea*, [Episode 1: The Scripture of Nature](http://ezproxy.neu.edu/login?url=https://search.alexanderstreet.com/view/work/bibliographic_entity&#124;video_work&#124;2362497) (first 29:00 minutes)
+- Watch *Bisbee '17* (2018). Available for rent through [Grasshopper Film](http://grasshopperfilm.com/film/bisbee-17/), [Amazon Prime Video](https://www.amazon.com/gp/video/detail/B07GK64ND4/ref=atv_dl_rdr), or [Apple TV](https://tv.apple.com/us/movie/bisbee-17/umc.cmc.4bchf7hi623kk8ytuy6rfdltg). 
 
 W. 10/30: Hetch Hetchy Valley
 - Prep for mock Congressional hearing on proposal to dam Hetch Hetchy Valley (primary source packets distributed by professor).
 
-***[Pop Culture Review]({{site.baseurl}}/pop-culture-review) due Sunday, Friday, November 1st***
+***[Pop Culture Review]({{site.baseurl}}/pop-culture-review) due Friday, November 1st***
 
 **Week 10**
 
