@@ -67,7 +67,7 @@ W. 10/16: Promontory Summit
 
 M. 10/21: The Cherokee Outlet
 - Peggy O’Donnell, ["The Settler Fantasies Woven Into the Prairie Dresses”](https://pictorial.jezebel.com/the-settler-fantasies-woven-into-the-prairie-dresses-1831746430) *Jezebel*, January 30, 2019.
-- Watch your the Season 1 Pilot Episode of the television series *Little House on the Prairie*. Available on [Amazon](https://www.amazon.com/Little-House-Prairie-Season-1/dp/B00J8C0TB6) or [iTunes](https://itunes.apple.com/us/tv-season/little-house-on-the-prairie-pilot/id819780847).
+- Watch the Season 1 Pilot Episode of the television series *Little House on the Prairie*. Available on [Amazon](https://www.amazon.com/Little-House-Prairie-Season-1/dp/B00J8C0TB6) or [iTunes](https://itunes.apple.com/us/tv-season/little-house-on-the-prairie-pilot/id819780847).
 
 W. 10/23: Angel Island
 - Kathryn Schulz, ["Citizen Khan: The Old West's Muslim Tamale King"](https://www.newyorker.com/magazine/2016/06/06/zarif-khans-tamales-and-the-muslims-of-sheridan-wyoming), *The New Yorker*, June 2016.
@@ -81,7 +81,7 @@ Mon., Oct. 28: Ludlow
 W. 10/30: Hetch Hetchy Valley
 - Prep for mock Congressional hearing on proposal to dam Hetch Hetchy Valley (primary source packets distributed by professor).
 
-***[Pop Culture Review]({{site.baseurl}}/pop-culture-review) due Friday, November 1st***
+***[Pop Culture Review]({{site.baseurl}}/pop-culture-review) due Sunday, November 3rd***
 
 **Week 10**
 

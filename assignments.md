@@ -11,7 +11,7 @@ Students are to attend each class having completed the readings or other assignm
 
 Choose a particular location in the western United States and make a timeline about some part of its history. [Full description of the assignment]({{site.baseurl}}/timeline).
 
-**Pop Culture Review (20%)** - *Due Friday November 1st by 11:59PM*
+**Pop Culture Review (20%)** - *Due Sunday November 3rd by 11:59PM*
 
 Write a 4-5 page (1,250-1,500 words) review of a movie, TV series, video game, novel, art exhibit, or other piece of pop culture that falls loosely under the "Western" genre. [Full description of the assignment]({{site.baseurl}}/pop-culture-review).
 
