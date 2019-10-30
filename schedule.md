@@ -86,7 +86,7 @@ W. 10/30: Hetch Hetchy Valley
 **Week 10**
 
 M. 11/4: Hollywood
-- Watch the first 1 hr, 26 min of *The Magnificent Seven* (1960). Available for rent on [YouTube](https://www.youtube.com/watch?v=58abXibG768) or [Amazon Video](https://www.amazon.com/Magnificent-Seven-Yul-Brynner/dp/B0011XF81G/).
+- Watch the first 1 hr. 29 min. of *The Man Who Shot Liberty Valence* (1962). Available for rent on [YouTube](https://www.youtube.com/watch?v=UWV-XAaCIt8) or [Amazon Video](https://www.amazon.com/Man-Who-Shot-Liberty-Valance/dp/B001NEXEEG/).
 
 Wed., Nov. 6: Topaz Internment Site
 - Miné Okubo, *Citizen 13660*
@@ -97,7 +97,7 @@ Wed., Nov. 6: Topaz Internment Site
 
 Wed., Nov. 13: East Los Angeles 
 - Come to class with a 3-4 sentence description of your unessay project.
-- Reading TBD
+- Helena María Viramontes, *Their Dogs Came With Them*, Ch. 1-4 (p. 1-78)
 
 **Week 12**
 
