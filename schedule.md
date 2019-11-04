@@ -97,7 +97,7 @@ Wed., Nov. 6: Topaz Internment Site
 
 Wed., Nov. 13: East Los Angeles 
 - Come to class with a 3-4 sentence description of your unessay project.
-- Helena María Viramontes, *Their Dogs Came With Them*, Ch. 1-4 (p. 1-78)
+- [Helena María Viramontes, *Their Dogs Came With Them*, Ch. 1-4 (p. 1-78)](https://www.dropbox.com/s/y5duurs0pm6b430/Viramontes_TheirDogsCameWithThem.pdf?dl=0)
 
 **Week 12**
 
