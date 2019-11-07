@@ -15,7 +15,7 @@ Choose a particular location in the western United States and make a timeline ab
 
 Write a 4-5 page (1,250-1,500 words) review of a movie, TV series, video game, novel, art exhibit, or other piece of pop culture that falls loosely under the "Western" genre. [Full description of the assignment]({{site.baseurl}}/pop-culture-review).
 
-**Unessay (20%)** - *Due Sunday November 24th by 11:59PM*
+**Unessay (20%)** - *Due Monday December 2nd at the beginning of class (2:50PM)*
 
 A final project on a topic of your choosing relating to the history of the western United States. [Full description of the assignment]({{site.baseurl}}/unessay).
 

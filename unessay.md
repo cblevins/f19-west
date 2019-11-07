@@ -10,7 +10,7 @@ Each unessay must include:
 - A 500-word introduction that provides an overview and explanation of the project's interpretation. Think of this as the written text you might read at the start of a museum exhibit.
 - An annotated bibliography of primary and secondary sources, in which you explain how the source informed your unessay in 1-2 sentences.
 
-**Due Sunday, November 24th by 11:59PM**
+**Due Monday, December 2nd by the beginning of class (2:50PM)**
 
 See below for examples of student unessays completed in other history courses: 
 

@@ -110,7 +110,6 @@ W. 11/20: Malheur Ranch
 - Philip Bump, ["The Oregon occupiers’ land dispute, explained in 9 maps"](https://www.washingtonpost.com/news/the-fix/wp/2016/01/04/the-oregon-occupiers-complaint-explained-in-9-maps/), *Washington Post*, January 4, 2016.
 - Listen to your assigned episode of [*Bundyville* Season 1](https://longreads.com/bundyville/season-one/)
 
-***[Unessay]({{site.baseurl}}/unessay) due Sunday, November 24th by 11:59PM***
 
 **Week 13**
 
@@ -123,6 +122,8 @@ M. 11/25: Silicon Valley
 
 M. 12/2: Standing Rock
 - TBD
+
+***[Unessay]({{site.baseurl}}/unessay) due Monday, December 2nd at the beginning of class***
 
 W. 12/4: Clint, Texas
 - TBD
