@@ -102,9 +102,10 @@ Wed., Nov. 13: East Los Angeles
 **Week 12**
 
 M. 11/18: Las Vegas Strip
-- Listen to following episodes of Leah Sottile, [*Bundyville*, Season One](https://longreads.com/bundyville/season-one/): 
+- Listen to following podcast episodes of Leah Sottile, [*Bundyville*, Season One](https://longreads.com/bundyville/season-one/): 
   - Episode 1: The Battle
   - Episode 2: The Bomb
+- **By Sunday at 11:59PM**: Email a 2-3 sentence description of your unessay to Professor Blevins
 
 W. 11/20: Malheur Ranch
 - Philip Bump, ["The Oregon occupiers’ land dispute, explained in 9 maps"](https://www.washingtonpost.com/news/the-fix/wp/2016/01/04/the-oregon-occupiers-complaint-explained-in-9-maps/), *Washington Post*, January 4, 2016.
