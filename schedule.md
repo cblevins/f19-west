@@ -109,7 +109,8 @@ M. 11/18: Las Vegas Strip
 
 W. 11/20: Malheur Ranch
 - Philip Bump, ["The Oregon occupiers’ land dispute, explained in 9 maps"](https://www.washingtonpost.com/news/the-fix/wp/2016/01/04/the-oregon-occupiers-complaint-explained-in-9-maps/), *Washington Post*, January 4, 2016.
-- Listen to your assigned episode of [*Bundyville* Season 1](https://longreads.com/bundyville/season-one/)
+- Listen and take notes on your assigned episode of [*Bundyville* Season 1](https://longreads.com/bundyville/season-one/)
+- Write down 1-2 sentence description for **one primary source** and **one secondary source** that you are going to use for your unessay
 
 
 **Week 13**
