@@ -107,7 +107,7 @@ M. 11/18: Las Vegas Strip
   - Episode 2: The Bomb
 - **By Sunday at 11:59PM**: Email a 2-3 sentence description of your unessay to Professor Blevins
 
-W. 11/20: Malheur Ranch
+W. 11/20: Malheur National Wildlife Refuge
 - Philip Bump, ["The Oregon occupiers’ land dispute, explained in 9 maps"](https://www.washingtonpost.com/news/the-fix/wp/2016/01/04/the-oregon-occupiers-complaint-explained-in-9-maps/), *Washington Post*, January 4, 2016.
 - Listen and take notes on your assigned episode of [*Bundyville* Season 1](https://longreads.com/bundyville/season-one/)
 - Write down 1-2 sentence description for **one primary source** and **one secondary source** that you are going to use for your unessay
