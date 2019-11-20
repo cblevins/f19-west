@@ -39,7 +39,6 @@ M. 9/30: Fort Vancouver
 - Watch the trailer for [The Revenant (2015)](https://www.youtube.com/watch?v=LoebZZ8K5N0)
 - Stacy Nation-Knapper, ["Film Friday: The Revenant is Beautiful, Disappointing Art"](http://activehistory.ca/2016/01/the-revenant-is-beautiful-disappointing-art/) *Active History*, January 29, 2016. 
 
-
 W. 10/2: Visit to the Leventhal Map Center
 - Meet in the lobby of the Boston Public Library at [700 Boylston St.](https://goo.gl/maps/TNuQ5jSMtZG5soG36)
 
@@ -116,16 +115,14 @@ W. 11/20: Malheur National Wildlife Refuge
 **Week 13**
 
 M. 11/25: Silicon Valley
-- TBD
+- ["How Silicon Valley Remade America In Its Image"](https://www.backstoryradio.org/shows/how-silicon-valley-remade-america-in-its-image/), *Backstory Podcast* interview with Margaret O'Mara,12 July 2019.
 
 ~~W. 11/27: No Class, Official Holiday~~
 
 **Week 14**
 
 M. 12/2: Standing Rock
-- TBD
-
-***[Unessay]({{site.baseurl}}/unessay) due Monday, December 2nd at the beginning of class***
+- ***[Unessay]({{site.baseurl}}/unessay) due Monday, December 2nd at the beginning of class***
 
 W. 12/4: Clint, Texas
 - TBD
