@@ -127,4 +127,4 @@ M. 12/2: Standing Rock
 W. 12/4: Clint, Texas
 - TBD
 
-*Take-Home Final Exam due TBD*
+*Take-Home Final Exam due Wednesday, December 11th*

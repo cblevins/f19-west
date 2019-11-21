@@ -19,6 +19,6 @@ Write a 4-5 page (1,250-1,500 words) review of a movie, TV series, video game, n
 
 A final project on a topic of your choosing relating to the history of the western United States. [Full description of the assignment]({{site.baseurl}}/unessay).
 
-**Final Exam (20%)** - *Due TBD*
+**Final Exam (20%)** - *Due Wednesday, December 11th by 11:59PM*
 
-Take-home exam consisting of short identifications and essay questions.
+Take-home exam consisting of short identifications and essay questions and will be emailed to the class on Sunday, December 8th. You may consult your notes from class along with any of the assigned readings themselves, but you are *not allowed* to consult outside sources such as Wikipedia or talk about the exam with fellow classmates. You are on your honor code. There is no specific time limit for taking the exam, other than completing and submitting it by Wednesday, December 11th by 11:59PM. 
