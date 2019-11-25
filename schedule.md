@@ -121,10 +121,10 @@ M. 11/25: Silicon Valley
 
 **Week 14**
 
-M. 12/2: Standing Rock
+M. 12/2: Northeastern University
 - ***[Unessay]({{site.baseurl}}/unessay) due Monday, December 2nd at the beginning of class***
 
-W. 12/4: Clint, Texas
-- TBD
+W. 12/4: Standing Rock
+- Email Professor Blevins a "reading" (song, video, article, Reddit thread, etc.) that you would assign a future student taking a U.S. history class to help them understand college students in 2019. Include a short explanation of what you hope they would learn from it.
 
 *Take-Home Final Exam due Wednesday, December 11th*
