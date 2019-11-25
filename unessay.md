@@ -7,7 +7,7 @@ For your final project you will creating an “unessay” on a topic of your cho
 
 Each unessay must include: 
 
-- A 500-word introduction that provides an overview and explanation of the project's interpretation. Think of this as the written text you might read at the start of a museum exhibit.
+- A 500-word introduction that provides an overview and explanation of the project's interpretation. Think of this as the written text you might read at the start of a museum exhibit. *Make sure to include a title for your project*.
 - An annotated bibliography of primary and secondary sources, in which you explain how the source informed your unessay in 1-2 sentences.
 
 You should submit your unessay to [this Dropbox link](https://www.dropbox.com/request/NwGuulgiVRk2EPJqCnos) in the form of a **single zipped folder** that includes your unessay along with your introduction and annotated bibliography as Word documents. If your unessay is a physical project (food, painting, board game, etc.) please take several photos of the project and include them inside your zipped folder. If you are not sure how you should submit your unessay, please email me and we will figure out a solution. [Instructions on how to created a zipped folder](http://rasmussen.libanswers.com/faq/32413).
